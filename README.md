@@ -1,14 +1,6 @@
 # Французский для Моей Юленьки 🤍
 
-Интерактивный одностраничный курс французского для подготовки к **TCF Canada (CLB 7 / B2)**.
-
-Построен на основе четырёх профессиональных учебников:
-
-1. **Practice Makes Perfect: Complete French All-in-One** (McGraw-Hill, 657 страниц) — вся грамматика
-2. **Collins Easy Learning French Conversation** — повседневные разговорные фразы
-3. **Practice Makes Perfect: French Conversation** (Eliane Kurbegov) — продвинутая разговорная речь
-4. **101 Conversations in Intermediate French** (Olly Richards) — диалоги уровня B1-B2
-
+Интерактивный одностраничный курс французского
 ## Что внутри
 
 - **12 недель** структурированных уроков от A1 до B2
