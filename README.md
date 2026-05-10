@@ -60,20 +60,6 @@
 ### 🗓️ 12 недель курса
 Структурированный план A1 → B2 с тестами и тренажёрами.
 
-## Как использовать локально
-
-1. Открой `index.html` в любом современном браузере (Chrome, Safari, Firefox, Edge)
-2. Учись!
-
-Работает офлайн.
-
-## Как опубликовать на GitHub Pages
-
-1. На [github.com](https://github.com) → **New repository** → имя `francais-3-mois`, поставь Public
-2. Внутри репо → **Add file → Upload files** → перетащи `index.html` и `README.md`
-3. **Settings → Pages** → Source = `main / root` → Save
-4. Через минуту откроется по адресу: `https://твой-логин.github.io/francais-3-mois/`
-
 ## Рекомендуемый порядок занятий
 
 **Неделя 1-2** — базовые недели курса (1-2) + первые уроки-истории (1-5) + грамматика 1-7
